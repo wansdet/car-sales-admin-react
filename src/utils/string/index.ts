@@ -1,0 +1,1 @@
+export { limitWords } from './StringFunctions'

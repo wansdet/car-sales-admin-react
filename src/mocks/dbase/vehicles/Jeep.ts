@@ -1,0 +1,46 @@
+export const jeep = {
+    makeId: 'jeep',
+    makeName: 'Jeep',
+    models: [
+        {
+            modelId: 'cherokee',
+            modelName: 'Cherokee',
+            bodyType: 'suv',
+            doors: 5,
+            seats: 5,
+            price: 25000,
+        },
+        {
+            modelId: 'compass',
+            modelName: 'Compass',
+            bodyType: 'suv',
+            doors: 5,
+            seats: 5,
+            price: 20000,
+        },
+        {
+            modelId: 'grand-cherokee',
+            modelName: 'Grand Cherokee',
+            bodyType: 'suv',
+            doors: 5,
+            seats: 5,
+            price: 30000,
+        },
+        {
+            modelId: 'renegade',
+            modelName: 'Renegade',
+            bodyType: 'suv',
+            doors: 5,
+            seats: 5,
+            price: 20000,
+        },
+        {
+            modelId: 'wrangler',
+            modelName: 'Wrangler',
+            bodyType: 'suv',
+            doors: 5,
+            seats: 5,
+            price: 30000,
+        },
+    ],
+}
